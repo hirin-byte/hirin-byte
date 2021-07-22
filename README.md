@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 ### What i use? :
 
 - A computer xD
+- Linux(Pop OS) and Mac OS(High Sierra)
 - Nvim (Text editor)
 - Adobe Premiere, After Effects and Audition (Video editing)
 - Aseprite (For drawing pixel art)
