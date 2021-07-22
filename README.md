@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 - Linux(Pop OS) and Mac OS(High Sierra)
 - Nvim (Text editor)
 - Adobe Premiere, After Effects and Audition (Video editing)
-- Aseprite (For drawing pixel art)
+- Aseprite (For drawing pixel art) ![icons](https://user-images.githubusercontent.com/76855526/126586188-c43559ee-bd8d-4993-bd30-4b852dc0b7eb.png)
+
