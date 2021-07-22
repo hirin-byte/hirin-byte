@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - Pixel art 
 - Video Editing and Animation
-- Beginner on Programming 
+- Beginner on Programming on <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### What i use? :
 
