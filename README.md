@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ### What i use? :
 
-- A computer xD
+- A computer xD ![icons](https://user-images.githubusercontent.com/76855526/126586570-66b39d97-c2b0-4639-b02d-e73dd9ae5f68.png)
 - Linux(Pop OS) and Mac OS(High Sierra) ![icons](https://user-images.githubusercontent.com/76855526/126586375-16017eef-1ac1-484e-b556-871592042cba.png) ![icons](https://user-images.githubusercontent.com/76855526/126586393-c9838d73-6a60-4d13-8710-78edbbc51f16.png)
 
 - Nvim (Text editor) ![icons](https://user-images.githubusercontent.com/76855526/126586277-229b1233-36a4-4504-965e-8c681b5ed4af.png)
