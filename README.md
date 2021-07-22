@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - A computer xD
 - Linux(Pop OS) and Mac OS(High Sierra)
-- Nvim (Text editor)
+- Nvim (Text editor) ![icons](https://user-images.githubusercontent.com/76855526/126586277-229b1233-36a4-4504-965e-8c681b5ed4af.png)
 - Adobe Premiere, After Effects and Audition (Video editing)
 - Aseprite (For drawing pixel art) ![icons](https://user-images.githubusercontent.com/76855526/126586247-87e3e6c9-9dbc-4e17-a720-8d9469a7c12e.png)
 
