@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ### What i use? :
 
 - A computer xD ![icons](https://user-images.githubusercontent.com/76855526/126586570-66b39d97-c2b0-4639-b02d-e73dd9ae5f68.png)
-- Linux(Pop OS) and Mac OS(High Sierra) ![icons](https://user-images.githubusercontent.com/76855526/126586375-16017eef-1ac1-484e-b556-871592042cba.png) ![icons](https://user-images.githubusercontent.com/76855526/126586393-c9838d73-6a60-4d13-8710-78edbbc51f16.png)
+- Linux(Pop OS)![icons](https://user-images.githubusercontent.com/76855526/126586375-16017eef-1ac1-484e-b556-871592042cba.png)  and Mac OS(High Sierra)![icons](https://user-images.githubusercontent.com/76855526/126586393-c9838d73-6a60-4d13-8710-78edbbc51f16.png)
 
 - Nvim (Text editor) ![icons](https://user-images.githubusercontent.com/76855526/126586277-229b1233-36a4-4504-965e-8c681b5ed4af.png)
 - Adobe Premiere, After Effects and Audition (Video editing) ![icons](https://user-images.githubusercontent.com/76855526/126586421-02b2632a-e1b9-428c-be82-defddcfeace0.png) ![icons](https://user-images.githubusercontent.com/76855526/126586437-38390281-94bc-4177-8bf8-1e737e9dc837.png) ![icons](https://user-images.githubusercontent.com/76855526/126586456-eb80c880-67b1-40b4-8bed-2ed969de5233.png) ![icons](https://user-images.githubusercontent.com/76855526/126586487-2147c468-0a35-4b19-b4b9-609ba8b7a652.png)
