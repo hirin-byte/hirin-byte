@@ -16,7 +16,7 @@ Socials Networks
 
 - Pixel art 
 - Video Editing and Animation
-- Beginner on Programming on <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=HTML5&logoColor=orange" />
+- Beginner on Programming on <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/html-%2314354C.svg?style=for-the-badge&logo=HTML5&logoColor=orange" />
 
 ### What i use? :
 
