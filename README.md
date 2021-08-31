@@ -13,7 +13,7 @@ Socials Networks
 ![](https://discord-md-badge.vercel.app/api/shield/424697596448210964?theme=clean)
 
 ### Hobbys: 
-
+<h1>hola<h1/>
 - Pixel art 
 - Video Editing and Animation
 - Beginner on Programming on <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/html-%2314354C.svg?style=for-the-badge&logo=HTML5&logoColor=orange" /> <img src="https://img.shields.io/badge/css-%2314354C.svg?style=for-the-badge&logo=CSS3&logoColor=blue" />
