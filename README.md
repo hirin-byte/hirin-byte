@@ -22,7 +22,6 @@ Socials Networks
 
 - A computer xD ![icons](https://user-images.githubusercontent.com/76855526/126586570-66b39d97-c2b0-4639-b02d-e73dd9ae5f68.png)
 - Linux(Manjaro) ![icons](https://user-images.githubusercontent.com/76855526/147426244-e4a08b15-9c64-4d0d-b071-00cad42bbd1e.png) and Mac OS(High Sierra)![icons](https://user-images.githubusercontent.com/76855526/126586393-c9838d73-6a60-4d13-8710-78edbbc51f16.png)
-
 - Nvim (Text editor) ![icons](https://user-images.githubusercontent.com/76855526/147426758-8ed1eb4e-dee4-4d0f-b2ba-810f007ee9a3.png)
-- Adobe Premiere, After Effects and Audition (Video editing) ![icons](https://user-images.githubusercontent.com/76855526/126586421-02b2632a-e1b9-428c-be82-defddcfeace0.png) ![icons](https://user-images.githubusercontent.com/76855526/126586437-38390281-94bc-4177-8bf8-1e737e9dc837.png) ![icons](https://user-images.githubusercontent.com/76855526/126586456-eb80c880-67b1-40b4-8bed-2ed969de5233.png) ![icons](https://user-images.githubusercontent.com/76855526/126586487-2147c468-0a35-4b19-b4b9-609ba8b7a652.png)
+- Adobe Premiere, After Effects and Audition (Video editing) ![icons](https://user-images.githubusercontent.com/76855526/147429661-212da830-8cd3-43ec-ac47-ce8408fd9313.png)![icons](https://user-images.githubusercontent.com/76855526/147429822-c9b093c6-f493-4505-a535-05bbba40c56a.png) ![icons](https://user-images.githubusercontent.com/76855526/147429966-6f076eea-3fe6-431d-a5d8-69e7daf033ed.png)
 - Aseprite (For drawing pixel art) ![icons](https://user-images.githubusercontent.com/76855526/147397104-715b18d3-6eef-4bf3-ac59-1fad4641f6ce.png)
